@@ -10,7 +10,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/Kareem100)](https://badges.pufler.dev)  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kareem100&locale=en&theme=tokyonight&show_icons=true" align="right" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kareem100&locale=en&theme=tokyonight&show_icons=true" align="right" width="450"/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=kareem100&theme=gruvbox&column=3&margin-w=15&margin-h=15)
 

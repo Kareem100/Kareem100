@@ -18,11 +18,12 @@
 
 <h2> About </h2>
   
-- Third Year Computer Science Student at Ain Shams University.
+- Fourth Year Computer Science Student at Ain Shams University.
 - Problem Solving Skills.
 - Proficiency with algorithms and data structures.
 - Good knowledge of OOP and design patterns.
 - Good understaning of android (Kotlin and Java) and Architectural Patterns.
+- Well Practised in Bash Scripting.
 - Well Practised on Frontend Web interfaces.
 - Lives in Cairo, Egypt.
 

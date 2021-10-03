@@ -38,9 +38,9 @@
  |               Android                   |                 Frontend                |                  Desktop                 |              Problem Solving             |
  | :-------------------------------------: | :-------------------------------------: |  :-------------------------------------: |  :-------------------------------------: |
  | [Zakrni](https://github.com/Kareem100/Zakrni-App) `private for now` | [Bookly](https://github.com/Kareem100/BOOKLYwebsite) |  [ScientificCalculator](https://github.com/Kareem100/ScientificCalculator) | [LeetCodeProblems](https://github.com/Kareem100/LeetCodeProblems) `private for now` |
- | [6-Mini Udacity Projects](https://github.com/Kareem100/ANDB-Projects) | [Shot](https://github.com/Kareem100/Shot-Website)  | [FunctionPlotter](https://github.com/Kareem100/FunctionPlotter)  `private for now` | [HackerRankProblems](https://github.com/Kareem100/HackerRankProblems) `private for now` |
+ | [6-Mini Udacity Projects](https://github.com/Kareem100/ANDB-Projects) | [Shot](https://github.com/Kareem100/Shot-Website)  | [FunctionPlotter](https://github.com/Kareem100/FunctionPlotter) | [HackerRankProblems](https://github.com/Kareem100/HackerRankProblems) `private for now` |
  | [RecentMovies](https://github.com/Kareem100/RecentMoviesApp) | [WorldTelescope](https://github.com/Kareem100/World-Telescope-website) | [HospitalMS](https://github.com/Kareem100/HospitalMS) | [CodeforcesProblems](https://github.com/Kareem100/CodeforcesProblems) `private for now` |
- | [Mazzika](https://github.com/Kareem100/Mazzika-app) |    | [ResizeTool](https://github.com/Kareem100/ResizeTool) | [TopologyAPI](https://github.com/Kareem100/TopologyAPI) `private for now` |
+ | [Mazzika](https://github.com/Kareem100/Mazzika-app) |    | [ResizeTool](https://github.com/Kareem100/ResizeTool) | [TopologyAPI](https://github.com/Kareem100/TopologyAPI) |
  | [Kidzenia](https://github.com/Kareem100/Kidzenia-app)|   | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Desktop) |
  | [Carzenia](https://github.com/Kareem100/Carzenia-app)|   | [Comma Co-working](https://github.com/Kareem100/Comma_CoworkingSpace_System) |
  | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Android) | | [emooStore](https://github.com/Kareem100/emooStore) |

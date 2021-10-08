@@ -35,16 +35,15 @@
 
 <h2> Projects </h2>
  
- |               Android                   |                 Frontend                |                  Desktop                 |              Problem Solving             |
- | :-------------------------------------: | :-------------------------------------: |  :-------------------------------------: |  :-------------------------------------: |
+ |               Android                   |                 Frontend                |                Desktop               | Others</br>(Problem Solving & Individual Tasks) |
+ | :-------------------------------------: | :-------------------------------------: | :----------------------------------: | :---------------------------------------------: |
  | [Zakrni](https://github.com/Kareem100/Zakrni-App) `private for now` | [Bookly](https://github.com/Kareem100/BOOKLYwebsite) |  [ScientificCalculator](https://github.com/Kareem100/ScientificCalculator) | [LeetCodeProblems](https://github.com/Kareem100/LeetCodeProblems) `private for now` |
- | [6-Mini Udacity Projects](https://github.com/Kareem100/ANDB-Projects) | [Shot](https://github.com/Kareem100/Shot-Website)  | [FunctionPlotter](https://github.com/Kareem100/FunctionPlotter) | [HackerRankProblems](https://github.com/Kareem100/HackerRankProblems) `private for now` |
- | [RecentMovies](https://github.com/Kareem100/RecentMoviesApp) | [WorldTelescope](https://github.com/Kareem100/World-Telescope-website) | [HospitalMS](https://github.com/Kareem100/HospitalMS) | [CodeforcesProblems](https://github.com/Kareem100/CodeforcesProblems) `private for now` |
- | [Mazzika](https://github.com/Kareem100/Mazzika-app) |    | [ResizeTool](https://github.com/Kareem100/ResizeTool) | [TopologyAPI](https://github.com/Kareem100/TopologyAPI) |
- | [Kidzenia](https://github.com/Kareem100/Kidzenia-app)|   | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Desktop) |
- | [Carzenia](https://github.com/Kareem100/Carzenia-app)|   | [Comma Co-working](https://github.com/Kareem100/Comma_CoworkingSpace_System) |
- | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Android) | | [emooStore](https://github.com/Kareem100/emooStore) |
- |  |  | [Pacman game](https://github.com/Kareem100/Pacman-Game) |  |
+ | [6-Mini Udacity Projects](https://github.com/Kareem100/ANDB-Projects) | [Shot](https://github.com/Kareem100/Shot-Website)  | [HospitalMS](https://github.com/Kareem100/HospitalMS) | [HackerRankProblems](https://github.com/Kareem100/HackerRankProblems) `private for now` |
+ | [RecentMovies](https://github.com/Kareem100/RecentMoviesApp) | [WorldTelescope](https://github.com/Kareem100/World-Telescope-website) | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Desktop) | [CodeforcesProblems](https://github.com/Kareem100/CodeforcesProblems) `private for now` |
+ | [Mazzika](https://github.com/Kareem100/Mazzika-app) |    | [Comma Co-working](https://github.com/Kareem100/Comma_CoworkingSpace_System) | [FunctionPlotter](https://github.com/Kareem100/FunctionPlotter) |
+ | [Kidzenia](https://github.com/Kareem100/Kidzenia-app)|   | [emooStore](https://github.com/Kareem100/emooStore) | [TopologyAPI](https://github.com/Kareem100/TopologyAPI) |
+ | [Carzenia](https://github.com/Kareem100/Carzenia-app)|   | [Pacman game](https://github.com/Kareem100/Pacman-Game) | [ResizeTool](https://github.com/Kareem100/ResizeTool) |
+ | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Android) | | [SpaceInvaders Game](https://github.com/Kareem100/Space-Invaders-Game) |
  <h2> Keep in Touch </h2>
  
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' >](https://github.com/Kareem100) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kareem-sherif-4623b920b//) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:kareemsherif210@gmail.com) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Kareem2024/) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kareem_17_/)

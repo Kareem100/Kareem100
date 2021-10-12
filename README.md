@@ -7,8 +7,8 @@
 </p>
 
 [![Most Egypt Active GitHub Users Rank](https://enhemdafw1yu47c.m.pipedream.net)](https://commits.top/egypt.html)
-<!--- [![Repos Badge](https://badges.pufler.dev/repos/Kareem100)](https://badges.pufler.dev) --->
-
+[![Repos Badge](https://badges.pufler.dev/repos/Kareem100)](https://badges.pufler.dev)
+<!--- [![Years Badge](https://badges.pufler.dev/years/Kareem100)](https://badges.pufler.dev) --->
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kareem100&locale=en&theme=tokyonight&show_icons=true" align="right" width="450"/>
 
@@ -44,7 +44,7 @@
  |               Android                   |                 Frontend                |                Desktop               | Others</br>(Problem Solving & Individual Tasks) |
  | :-------------------------------------: | :-------------------------------------: | :----------------------------------: | :---------------------------------------------: |
  | [Zakrni](https://github.com/Kareem100/Zakrni-App) `private for now` | [Bookly](https://github.com/Kareem100/BOOKLYwebsite) |  [ScientificCalculator](https://github.com/Kareem100/ScientificCalculator) | [LeetCodeProblems](https://github.com/Kareem100/LeetCodeProblems) |
- | [6-Mini Udacity Projects](https://github.com/Kareem100/ANDB-Projects) | [Shot](https://github.com/Kareem100/Shot-Website)  | [HospitalMS](https://github.com/Kareem100/HospitalMS) | [HackerRankProblems](https://github.com/Kareem100/HackerRankProblems) `private for now` |
+ | [6-Mini Udacity Projects](https://github.com/Kareem100/ANDB-Projects) | [Shot](https://github.com/Kareem100/Shot-Website)  | [HospitalMS](https://github.com/Kareem100/HospitalMS) | [HackerRankProblems](https://github.com/Kareem100/HackerRankProblems) |
  | [RecentMovies](https://github.com/Kareem100/RecentMoviesApp) | [WorldTelescope](https://github.com/Kareem100/World-Telescope-website) | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Desktop) | [CodeforcesProblems](https://github.com/Kareem100/CodeforcesProblems) `private for now` |
  | [Mazzika](https://github.com/Kareem100/Mazzika-app) |    | [Comma Co-working](https://github.com/Kareem100/Comma_CoworkingSpace_System) | [FunctionPlotter](https://github.com/Kareem100/FunctionPlotter) |
  | [Kidzenia](https://github.com/Kareem100/Kidzenia-app)|   | [emooStore](https://github.com/Kareem100/emooStore) | [TopologyAPI](https://github.com/Kareem100/TopologyAPI) |

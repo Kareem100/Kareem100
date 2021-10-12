@@ -19,13 +19,19 @@
 <h2> About </h2>
   
 - Fourth Year Computer Science Student at Ain Shams University.
-- Problem Solving Skills.
-- Proficiency with algorithms and data structures.
-- Good knowledge of OOP and design patterns.
-- Good understaning of android (Kotlin and Java) and Architectural Patterns.
-- Well Practised in Bash Scripting.
-- Well Practised on Frontend Web interfaces.
 - Lives in Cairo, Egypt.
+- Problem Solving Skills.
+- Proficiency with Algorithms and Data Structures.
+- Good knowledge of OOP and Design Patterns.
+- Good knowledge of Unit Testing.
+- Good understaning of Android Development.
+- Well practised in Bash Scripting.
+- Well practised on Frontend Web interfaces.
+- Well practised on .Net Framework and C# WinForms.
+- Well practised on Adobe Design Kit.
+     
+| [Show Resume](https://drive.google.com/file/d/1Bz7YCDZ50tiXc8YlZCOHaj0f_sDaLF7W/view) |
+| :-------------------------------------: |
 
 <h2> Languages </h2>
 

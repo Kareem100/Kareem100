@@ -10,9 +10,9 @@
 [![Repos Badge](https://badges.pufler.dev/repos/kareem100)](https://badges.pufler.dev)
 <!--- [![Years Badge](https://badges.pufler.dev/years/Kareem100)](https://badges.pufler.dev) --->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kareem100&locale=en&theme=tokyonight&show_icons=true" align="right" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kareem100&locale=en&theme=tokyonight&show_icons=true" align="right" width="440"/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Kareem100&theme=gruvbox&column=3&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=Kareem100&theme=gruvbox&column=3&margin-w=10&margin-h=10)
 
 <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem100&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515" align="right" width="300" height="200"/> --->
 

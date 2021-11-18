@@ -30,7 +30,7 @@
 - Well practised on .Net Framework and C# WinForms.
 - Well practised on Adobe Design Kit.
      
-| [Show Resume](https://drive.google.com/file/d/1Bz7YCDZ50tiXc8YlZCOHaj0f_sDaLF7W/view) |
+| [Show Resume](https://drive.google.com/file/d/1UGd_IFqGBHcXLC5wQLpZqReSuITs26RQ/view?usp=sharing) |
 | :-------------------------------------: |
 
 <h2> Languages </h2>

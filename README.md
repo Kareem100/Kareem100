@@ -50,6 +50,12 @@
  | [Kidzenia](https://github.com/Kareem100/Kidzenia-app)|   | [emooStore](https://github.com/Kareem100/emooStore) | [TopologyAPI](https://github.com/Kareem100/TopologyAPI) |
  | [Carzenia](https://github.com/Kareem100/Carzenia-app)|   | [Pacman game](https://github.com/Kareem100/Pacman-Game) | [ResizeTool](https://github.com/Kareem100/ResizeTool) |
  | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Android) | | [SpaceInvaders Game](https://github.com/Kareem100/Space-Invaders-Game) | [Moving Policeman Character](https://github.com/Kareem100/Computer-Graphics-MiniProject) |
+ 
+ #### Extras `(private)`
+ | [Music-Score-Reader](https://github.com/Kareem100/Music-Score-Reader-OMR-) | [Simulately](https://github.com/Kareem100/Simulately)| [Tiny-Compiler](https://github.com/Kareem100/Tiny-Compiler)|
+ | :-----------: | :------------: | :----------: |
+ <!-- | Project 1 | Project 2 |  Project 3 | Project 4 | -->
+ 
  <h2> Keep in Touch </h2>
  
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' >](https://github.com/Kareem100) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kareem-sherif-4623b920b//) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:kareemsherif210@gmail.com) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Kareem2024/) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kareem_17_/)

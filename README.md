@@ -41,18 +41,18 @@
 
 <h2> Projects </h2>
  
- |               Android                   |                 Frontend                |                Desktop               | Others</br>(Problem Solving & Individual Tasks) |
+ |               The Elite                   |                 Android                |                Desktop               | Others</br>(Problem Solving & Individual Tasks) |
  | :-------------------------------------: | :-------------------------------------: | :----------------------------------: | :---------------------------------------------: |
- | [Zakrni](https://github.com/Kareem100/Zakrni-App) `private for now` | [Bookly](https://github.com/Kareem100/BOOKLYwebsite) |  [ScientificCalculator](https://github.com/Kareem100/ScientificCalculator) | [LeetCodeProblems](https://github.com/Kareem100/LeetCodeProblems) |
- | [6-Mini Udacity Projects](https://github.com/Kareem100/ANDB-Projects) | [Shot](https://github.com/Kareem100/Shot-Website)  | [HospitalMS](https://github.com/Kareem100/HospitalMS) | [HackerRankProblems](https://github.com/Kareem100/HackerRankProblems) |
- | [RecentMovies](https://github.com/Kareem100/RecentMoviesApp) | [WorldTelescope](https://github.com/Kareem100/World-Telescope-website) | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Desktop) | [CodeforcesProblems](https://github.com/Kareem100/CodeforcesProblems) `private for now` |
- | [Mazzika](https://github.com/Kareem100/Mazzika-app) |    | [Comma Co-working](https://github.com/Kareem100/Comma_CoworkingSpace_System) | [FunctionPlotter](https://github.com/Kareem100/FunctionPlotter) |
- | [Kidzenia](https://github.com/Kareem100/Kidzenia-app)|   | [emooStore](https://github.com/Kareem100/emooStore) | [TopologyAPI](https://github.com/Kareem100/TopologyAPI) |
- | [Carzenia](https://github.com/Kareem100/Carzenia-app)|   | [Pacman game](https://github.com/Kareem100/Pacman-Game) | [ResizeTool](https://github.com/Kareem100/ResizeTool) |
- | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Android) | | [SpaceInvaders Game](https://github.com/Kareem100/Space-Invaders-Game) | [Moving Policeman Character](https://github.com/Kareem100/Computer-Graphics-MiniProject) |
+ | [Music-Score-Reader](https://github.com/Kareem100/Music-Score-Reader-OMR-) | [Zakrni](https://github.com/Kareem100/Zakrni-App) `private for now` |  [ScientificCalculator](https://github.com/Kareem100/ScientificCalculator) | [LeetCodeProblems](https://github.com/Kareem100/LeetCodeProblems) |
+ | [Simulately](https://github.com/Kareem100/Simulately) | [6-Mini Udacity Projects](https://github.com/Kareem100/ANDB-Projects) | [HospitalMS](https://github.com/Kareem100/HospitalMS) | [HackerRankProblems](https://github.com/Kareem100/HackerRankProblems) |
+ | [Tiny-Compiler](https://github.com/Kareem100/Tiny-Compiler) | [RecentMovies](https://github.com/Kareem100/RecentMoviesApp) | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Desktop) | [CodeforcesProblems](https://github.com/Kareem100/CodeforcesProblems) `private for now` |
+ | [ML-HousePricePrediction](https://github.com/Kareem100/ML-HousePricePrediction) | [Mazzika](https://github.com/Kareem100/Mazzika-app) | [Comma Co-working](https://github.com/Kareem100/Comma_CoworkingSpace_System) | [FunctionPlotter](https://github.com/Kareem100/FunctionPlotter) |
+ |   | [Kidzenia](https://github.com/Kareem100/Kidzenia-app) | [emooStore](https://github.com/Kareem100/emooStore) | [TopologyAPI](https://github.com/Kareem100/TopologyAPI) |
+ |   | [Carzenia](https://github.com/Kareem100/Carzenia-app) | [Pacman game](https://github.com/Kareem100/Pacman-Game) | [ResizeTool](https://github.com/Kareem100/ResizeTool) |
+ |   | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Android) | [SpaceInvaders Game](https://github.com/Kareem100/Space-Invaders-Game) | [Moving Policeman Character](https://github.com/Kareem100/Computer-Graphics-MiniProject) |
  
- #### Extras `(private)`
- | [Music-Score-Reader](https://github.com/Kareem100/Music-Score-Reader-OMR-) | [Simulately](https://github.com/Kareem100/Simulately)| [Tiny-Compiler](https://github.com/Kareem100/Tiny-Compiler)|
+ #### Extras (Frontend)
+ | [Bookly](https://github.com/Kareem100/BOOKLYwebsite) | [Shot](https://github.com/Kareem100/Shot-Website) | [WorldTelescope](https://github.com/Kareem100/World-Telescope-website) |
  | :-----------: | :------------: | :----------: |
  <!-- | Project 1 | Project 2 |  Project 3 | Project 4 | -->
  

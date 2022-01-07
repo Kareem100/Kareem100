@@ -22,6 +22,7 @@
 - Lives in Cairo, Egypt.
 - Problem Solving Skills.
 - Proficiency with Algorithms and Data Structures.
+- Good knowledge of Supervised Machine Learning.
 - Good knowledge of OOP and Design Patterns.
 - Good knowledge of Unit Testing.
 - Good understaning of Android Development.

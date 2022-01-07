@@ -8,7 +8,7 @@
 
 [![Most Egypt Active GitHub Users Rank](https://enhemdafw1yu47c.m.pipedream.net)](https://commits.top/egypt.html)
 [![Repos Badge](https://badges.pufler.dev/repos/kareem100/)](https://badges.pufler.dev)
-<!--- [![Years Badge](https://badges.pufler.dev/years/Kareem100)](https://badges.pufler.dev) --->
+[![Years Badge](https://badges.pufler.dev/years/Kareem100)](https://badges.pufler.dev)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Kareem100&locale=en&theme=tokyonight&show_icons=true" align="right" width="440"/>
 

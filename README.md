@@ -15,7 +15,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kareem100&theme=dark" width="380"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kareem100&locale=en&theme=tokyonight&show_icons=true&count_private=true&line_height=18&border_radius=15" width="380">
+<img src="https://github-readme-stats.vercel.app/api?username=Kareem100&locale=en&theme=tokyonight&show_icons=true&line_height=18&border_radius=15" width="380">
 
 <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem100&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515" align="right" width="300" height="200"/> --->
 

@@ -23,8 +23,9 @@
 
 <h2> About </h2>
   
-- Fourth Year Computer Science Student at Ain Shams University.
-- Lives in Cairo, Egypt.
+🎓 Fourth Year Student (**Senior Year**).  </br>
+🏛 Faculty of **Computer & Information Sciences**, **Ain Shams** University. </br>
+🏡 Lives in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
 - Proficiency with Algorithms and Data Structures.
 - Proficiency with OOP and Design Patterns.

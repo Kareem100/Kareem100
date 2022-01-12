@@ -34,9 +34,9 @@
 - Good knowledge of Unit Testing.
 - Good understaning of Android Development.
 - Well practised in Bash Scripting.
-- Well practised on Frontend Web interfaces.
-- Well practised on .Net Framework and C# WinForms.
-- Well practised on Adobe Design Kit.
+- Well practised in Frontend Web interfaces.
+- Well practised in .Net Framework and C# WinForms.
+- Well practised in Adobe Design Kit.
      
 | [Show Resume](https://drive.google.com/file/d/1ieGQIVk801W4wmFUMzJEpn4As1VgdfFf/view?usp=sharing) |
 | :-------------------------------------: |

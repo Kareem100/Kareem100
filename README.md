@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, It's Kareem !</h1>
 <h3 align="center">Junior Software Engineer</h3>
-<h3 align="center">Senior Computer Science Student at Ain-Shams University</h3>
+<h4 align="center">Senior Computer Science Student at Ain-Shams University</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kareem100&label=Profile%20views&color=0e75b6&style=flat" alt="Kareem100"/>
@@ -51,9 +51,9 @@
  
  |               The Elite                   |                 Android                |                Desktop               | Others</br>(Problem Solving & Individual Tasks) |
  | :-------------------------------------: | :-------------------------------------: | :----------------------------------: | :---------------------------------------------: |
- | [Music-Score-Reader](https://github.com/Kareem100/Music-Score-Reader-OMR-) | [Zakrni](https://github.com/Kareem100/Zakrni-App) `private for now` |  [ScientificCalculator](https://github.com/Kareem100/ScientificCalculator) | [LeetCodeProblems](https://github.com/Kareem100/LeetCodeProblems) |
+ | [Music-Score-Reader](https://github.com/Kareem100/Music-Score-Reader-OMR-) | [Zakrni](https://github.com/Kareem100/Zakrni-App) `private` |  [ScientificCalculator](https://github.com/Kareem100/ScientificCalculator) | [LeetCodeProblems](https://github.com/Kareem100/LeetCodeProblems) |
  | [Simulately](https://github.com/Kareem100/Simulately) | [6-Mini Udacity Projects](https://github.com/Kareem100/ANDB-Projects) | [HospitalMS](https://github.com/Kareem100/HospitalMS) | [HackerRankProblems](https://github.com/Kareem100/HackerRankProblems) |
- | [Tiny-Compiler](https://github.com/Kareem100/Tiny-Compiler) | [RecentMovies](https://github.com/Kareem100/RecentMoviesApp) | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Desktop) | [CodeforcesProblems](https://github.com/Kareem100/CodeforcesProblems) `private for now` |
+ | [Tiny-Compiler](https://github.com/Kareem100/Tiny-Compiler) | [RecentMovies](https://github.com/Kareem100/RecentMoviesApp) | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Desktop) | [CodeforcesProblems](https://github.com/Kareem100/CodeforcesProblems) `private` |
  | [ML-HousePricePrediction](https://github.com/Kareem100/ML-HousePricePrediction) | [Mazzika](https://github.com/Kareem100/Mazzika-app) | [Comma Co-working](https://github.com/Kareem100/Comma_CoworkingSpace_System) | [FunctionPlotter](https://github.com/Kareem100/FunctionPlotter) |
  |   | [Kidzenia](https://github.com/Kareem100/Kidzenia-app) | [emooStore](https://github.com/Kareem100/emooStore) | [TopologyAPI](https://github.com/Kareem100/TopologyAPI) |
  |   | [Carzenia](https://github.com/Kareem100/Carzenia-app) | [Pacman game](https://github.com/Kareem100/Pacman-Game) | [ResizeTool](https://github.com/Kareem100/ResizeTool) |

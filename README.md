@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, It's Kareem !</h1>
 <h3 align="center">Junior Software Engineer</h3>
-<h4 align="center">Senior Computer Science Student at Ain-Shams University</h4>
+<h3 align="center">Senior Computer Science Student at Ain-Shams University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kareem100&label=Profile%20views&color=0e75b6&style=flat" alt="Kareem100"/>

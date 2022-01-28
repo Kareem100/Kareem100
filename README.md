@@ -24,7 +24,7 @@
 <h2> About </h2>
   
 🎓 Fourth Year Student (**Senior Year**).  </br>
-🏛 Faculty of **Computer & Information Sciences**, **Ain Shams** University. </br>
+🏛 Faculty of **Computer & Information Sciences**, **Ain Shams** University, **Cairo**. </br>
 🏡 Lives in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
 - Proficiency with Algorithms and Data Structures.

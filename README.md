@@ -51,12 +51,12 @@
  
  |               The Elite                   |                 Android                |                Desktop               | Others</br>(Problem Solving & Individual Tasks) |
  | :-------------------------------------: | :-------------------------------------: | :----------------------------------: | :---------------------------------------------: |
- | [Music-Score-Reader](https://github.com/Kareem100/Music-Score-Reader-OMR-) | [Zakrni](https://github.com/Kareem100/Zakrni-App) `private 4 now` |  [ScientificCalculator](https://github.com/Kareem100/ScientificCalculator) | [LeetCodeProblems](https://github.com/Kareem100/LeetCodeProblems) |
- | [Simulately](https://github.com/Kareem100/Simulately) | [6-Mini Udacity Projects](https://github.com/Kareem100/ANDB-Projects) | [HospitalMS](https://github.com/Kareem100/HospitalMS) | [HackerRankProblems](https://github.com/Kareem100/HackerRankProblems) |
- | [Tiny-Compiler](https://github.com/Kareem100/Tiny-Compiler) | [RecentMovies](https://github.com/Kareem100/RecentMoviesApp) | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Desktop) | [CodeforcesProblems](https://github.com/Kareem100/CodeforcesProblems) `private 4 now` |
- | [ML-HousePricePrediction](https://github.com/Kareem100/ML-HousePricePrediction) | [Mazzika](https://github.com/Kareem100/Mazzika-app) | [Comma Co-working](https://github.com/Kareem100/Comma_CoworkingSpace_System) | [FunctionPlotter](https://github.com/Kareem100/FunctionPlotter) |
- |   | [Kidzenia](https://github.com/Kareem100/Kidzenia-app) | [emooStore](https://github.com/Kareem100/emooStore) | [TopologyAPI](https://github.com/Kareem100/TopologyAPI) |
- |   | [Carzenia](https://github.com/Kareem100/Carzenia-app) | [Pacman game](https://github.com/Kareem100/Pacman-Game) | [ResizeTool](https://github.com/Kareem100/ResizeTool) |
+ | [Movies-AI-Recommender-System](https://github.com/Kareem100/Movies-AI-Recommender-System) | [Zakrni](https://github.com/Kareem100/Zakrni-App) `private 4 now` |  [ScientificCalculator](https://github.com/Kareem100/ScientificCalculator) | [LeetCodeProblems](https://github.com/Kareem100/LeetCodeProblems) |
+ | [Music-Score-Reader](https://github.com/Kareem100/Music-Score-Reader-OMR-) | [6-Mini Udacity Projects](https://github.com/Kareem100/ANDB-Projects) | [HospitalMS](https://github.com/Kareem100/HospitalMS) | [HackerRankProblems](https://github.com/Kareem100/HackerRankProblems) |
+ | [Simulately](https://github.com/Kareem100/Simulately) | [RecentMovies](https://github.com/Kareem100/RecentMoviesApp) | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Desktop) | [CodeforcesProblems](https://github.com/Kareem100/CodeforcesProblems) `private 4 now` |
+ | [Tiny-Compiler](https://github.com/Kareem100/Tiny-Compiler) | [Mazzika](https://github.com/Kareem100/Mazzika-app) | [Comma Co-working](https://github.com/Kareem100/Comma_CoworkingSpace_System) | [FunctionPlotter](https://github.com/Kareem100/FunctionPlotter) |
+ | [NN-Weather-Analysis](https://github.com/Kareem100/NN-Weather-Analysis) | [Kidzenia](https://github.com/Kareem100/Kidzenia-app) | [emooStore](https://github.com/Kareem100/emooStore) | [TopologyAPI](https://github.com/Kareem100/TopologyAPI) |
+ | [ML-HousePricePrediction](https://github.com/Kareem100/ML-HousePricePrediction) | [Carzenia](https://github.com/Kareem100/Carzenia-app) | [Pacman game](https://github.com/Kareem100/Pacman-Game) | [ResizeTool](https://github.com/Kareem100/ResizeTool) |
  |   | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Android) | [SpaceInvaders Game](https://github.com/Kareem100/Space-Invaders-Game) | [Moving Policeman Character](https://github.com/Kareem100/Computer-Graphics-MiniProject) |
  
  #### Extras (Frontend)

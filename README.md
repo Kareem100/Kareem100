@@ -25,7 +25,7 @@
   
 🎓 Fresh Graduate.  </br>
 🏛 Faculty of **Computer & Information Sciences**, **Ain Shams** University, **Cairo**. </br>
-🏡 Lives in Cairo, Egypt (🇪🇬).
+🏡 Live in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
 - Proficiency with Algorithms and Data Structures.
 - Proficiency with OOP and Design Patterns.

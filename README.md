@@ -23,7 +23,7 @@
 
 <h2> About </h2>
   
-🎓 Fourth Year Student (**Senior Year**).  </br>
+🎓 Fresh Graduate.  </br>
 🏛 Faculty of **Computer & Information Sciences**, **Ain Shams** University, **Cairo**. </br>
 🏡 Lives in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.

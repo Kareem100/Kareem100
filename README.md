@@ -23,8 +23,8 @@
 
 <h2> About </h2>
   
-🎓 Fresh Graduate.  </br>
-🏛 Faculty of **Computer & Information Sciences**, **Ain Shams** University, **Cairo**. </br>
+🎓 Just Graduated from the Faculty of **Computer and Information Sciences** - **Ain Shams** University, **Cairo**.  </br>
+🏛 `**Computer Science** Department - Class: 2022 - overall GPA: 3.7/4` </br>
 🏡 Live in Cairo, Egypt (🇪🇬).
 - Problem Solving Skills.
 - Proficiency with Algorithms and Data Structures.

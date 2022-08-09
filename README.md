@@ -7,11 +7,11 @@
 </p>
 
 [![Most Egypt Active GitHub Users Rank](https://enhemdafw1yu47c.m.pipedream.net)](https://commits.top/egypt.html)
-[![Repos Badge](https://badges.pufler.dev/repos/kareem100/)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/Kareem100/)](https://badges.pufler.dev)
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/Kareem100/)](https://badges.pufler.dev) -->
+<!-- [![Years Badge](https://badges.pufler.dev/years/Kareem100/)](https://badges.pufler.dev) -->
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kareem100&theme=gruvbox&column=3&margin-w=10&margin-h=10" align="left" width="400" height="300"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kareem100&theme=gruvbox&column=3&margin-w=10&margin-h=10" align="left" height="300"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kareem100&theme=dark" width="380"/>
 

@@ -62,6 +62,10 @@
  | [ML-HousePricePrediction](https://github.com/Kareem100/ML-HousePricePrediction) | [Carzenia](https://github.com/Kareem100/Carzenia-app) | [Pacman game](https://github.com/Kareem100/Pacman-Game) | [ResizeTool](https://github.com/Kareem100/ResizeTool) |
  | [Finding-Donors-for-CharityML](https://github.com/Kareem100/Finding-Donors-for-CharityML)  | [Hercules Game](https://github.com/Kareem100/Hercules-Game-Android) | [SpaceInvaders Game](https://github.com/Kareem100/Space-Invaders-Game) | [Moving Policeman Character](https://github.com/Kareem100/Computer-Graphics-MiniProject) |
  
+ ### Graduation Project
+ |[Careium-AI](https://github.com/Kareem100/Careium-AI/tree/main)|
+ |:----------:|
+ 
  #### Extras (Frontend)
  | [Bookly](https://github.com/Kareem100/BOOKLYwebsite) | [Shot](https://github.com/Kareem100/Shot-Website) | [WorldTelescope](https://github.com/Kareem100/World-Telescope-website) |
  | :-----------: | :------------: | :----------: |

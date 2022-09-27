@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![Most Egypt Active GitHub Users Rank](https://enhemdafw1yu47c.m.pipedream.net)](https://commits.top/egypt.html)
+  <!-- [![Most Egypt Active GitHub Users Rank](https://enhemdafw1yu47c.m.pipedream.net)](https://commits.top/egypt.html) -->
   <!-- [![Repos Badge](https://badges.pufler.dev/repos/Kareem100/)](https://badges.pufler.dev) -->
   <!-- [![Years Badge](https://badges.pufler.dev/years/Kareem100/)](https://badges.pufler.dev) -->
 </div>
